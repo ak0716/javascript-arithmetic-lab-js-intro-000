@@ -17,10 +17,10 @@ function divide(a, b) {
   return a / b
 }
 
-function increment(n) {
+function increment(a) {
   return a + 1;
 }
 
-function decrement(n) {
+function decrement(a) {
   return a - 1;
 }
