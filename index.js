@@ -16,3 +16,11 @@ function multiply(a, b) {
 function divide(a, b) {
   a / b
 }
+
+function increment(a) {
+  a = a + 1;
+}
+
+function decrement(a) {
+  a = a - 1;
+}
