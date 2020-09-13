@@ -12,17 +12,21 @@ function subtract(a, b) {
 }
 
 function multiply(a, b) {
-  a * b
+  a * b;
+  return multiply;
 }
 
 function divide(a, b) {
   a / b
+  return divide;
 }
 
 function increment(a) {
   a = a + 1;
+  return increment;
 }
 
 function decrement(a) {
   a = a - 1;
+  return decrement;
 }
