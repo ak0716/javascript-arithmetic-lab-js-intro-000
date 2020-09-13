@@ -17,7 +17,7 @@ function divide(a, b) {
   return a / b
 }
 
-function increment(a) {
+function increment(n) {
   return a++;
 }
 
