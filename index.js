@@ -18,9 +18,9 @@ function divide(a, b) {
 }
 
 function increment(a) {
-  a++;
+  a = a++;
 }
 
 function decrement(a) {
-  a--;
+  a = a--;
 }
