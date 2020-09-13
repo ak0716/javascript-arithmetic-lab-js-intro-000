@@ -24,6 +24,3 @@ function increment(a) {
 function decrement(a) {
   a = a - 1;
 }
-
-add();
-subtract();
